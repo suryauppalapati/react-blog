@@ -1,0 +1,14 @@
+.headerTitle{
+    text-align: center;
+    font-family: 'Mrs Saint Delafield', cursive;
+    margin-left: 30%;
+    margin-top: 6%;
+    font-size: 100px;
+    font-weight: 600;
+    position: absolute;
+    justify-content: center;
+}
+
+.headerImg{
+    width: 100%;
+}

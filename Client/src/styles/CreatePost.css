@@ -1,0 +1,64 @@
+.pageTitle{
+    text-align: center;
+    font-family: 'Mrs Saint Delafield', cursive;
+    margin-top: 5%;
+    font-size: 75px;
+    font-weight: 600;
+    position: relative;
+    justify-content: center;
+}
+
+.CreateNewPost{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top:25px;
+    background-color: black;
+    border-radius: 10;
+    width: 60%;
+    margin-left: 250px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+
+#postTitle{
+  width: 35%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border-radius: 5px;
+  border-width:medium;
+  border: 1px solid #ccc;
+  margin-top: 50px;
+}
+
+textarea{
+    width: 55%;
+    padding: 25px 30px;
+    border-radius: 5px;
+    border-width:medium;
+    font-family: sans-serif;
+    border: 1px solid #ccc;
+
+}
+
+.addImage{
+    color: blanchedalmond;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    margin-bottom: 35px;
+}
+
+button{
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 8px 15px;
+    cursor: pointer;
+    margin-bottom: 35px;
+}
